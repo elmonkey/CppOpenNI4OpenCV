@@ -1,2 +1,2 @@
 # openni2opencvC-
-Stream kinect/carmine devices and visualize them using opencv in C++
+Stream kinect/carmine devices via openni 1 and visualize them using opencv in C++
